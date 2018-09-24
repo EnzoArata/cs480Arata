@@ -1,0 +1,4 @@
+/home/enzoarata/Desktop/CS480/PA4/build/CMakeFiles/rebuild_cache.dir
+/home/enzoarata/Desktop/CS480/PA4/build/CMakeFiles/edit_cache.dir
+/home/enzoarata/Desktop/CS480/PA4/build/CMakeFiles/Tutorial.dir
+/home/enzoarata/Desktop/CS480/PA4/build/CMakeFiles/Tutorial_SUCCESSFUL.dir
