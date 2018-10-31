@@ -1,0 +1,4 @@
+/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA8/build/CMakeFiles/rebuild_cache.dir
+/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA8/build/CMakeFiles/edit_cache.dir
+/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA8/build/CMakeFiles/PA8.dir
+/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA8/build/CMakeFiles/PA8_SUCCESSFUL.dir
