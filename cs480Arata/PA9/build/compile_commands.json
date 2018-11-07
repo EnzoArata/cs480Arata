@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/build",
+  "command": "/usr/bin/c++  -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16 -DUNIX -I/usr/lib/include -I/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/include -I/usr/include/SDL2 -I/usr/include/bullet   -std=gnu++11 -g   -o CMakeFiles/PA9.dir/src/camera.cpp.o -c /home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/src/camera.cpp",
+  "file": "/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/src/camera.cpp"
+},
+{
+  "directory": "/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/build",
+  "command": "/usr/bin/c++  -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16 -DUNIX -I/usr/lib/include -I/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/include -I/usr/include/SDL2 -I/usr/include/bullet   -std=gnu++11 -g   -o CMakeFiles/PA9.dir/src/engine.cpp.o -c /home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/src/engine.cpp",
+  "file": "/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/src/engine.cpp"
+},
+{
+  "directory": "/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/build",
+  "command": "/usr/bin/c++  -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16 -DUNIX -I/usr/lib/include -I/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/include -I/usr/include/SDL2 -I/usr/include/bullet   -std=gnu++11 -g   -o CMakeFiles/PA9.dir/src/graphics.cpp.o -c /home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/src/graphics.cpp",
+  "file": "/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/src/graphics.cpp"
+},
+{
+  "directory": "/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/build",
+  "command": "/usr/bin/c++  -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16 -DUNIX -I/usr/lib/include -I/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/include -I/usr/include/SDL2 -I/usr/include/bullet   -std=gnu++11 -g   -o CMakeFiles/PA9.dir/src/main.cpp.o -c /home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/src/main.cpp",
+  "file": "/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/src/main.cpp"
+},
+{
+  "directory": "/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/build",
+  "command": "/usr/bin/c++  -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16 -DUNIX -I/usr/lib/include -I/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/include -I/usr/include/SDL2 -I/usr/include/bullet   -std=gnu++11 -g   -o CMakeFiles/PA9.dir/src/object.cpp.o -c /home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/src/object.cpp",
+  "file": "/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/src/object.cpp"
+},
+{
+  "directory": "/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/build",
+  "command": "/usr/bin/c++  -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16 -DUNIX -I/usr/lib/include -I/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/include -I/usr/include/SDL2 -I/usr/include/bullet   -std=gnu++11 -g   -o CMakeFiles/PA9.dir/src/shader.cpp.o -c /home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/src/shader.cpp",
+  "file": "/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/src/shader.cpp"
+},
+{
+  "directory": "/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/build",
+  "command": "/usr/bin/c++  -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16 -DUNIX -I/usr/lib/include -I/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/include -I/usr/include/SDL2 -I/usr/include/bullet   -std=gnu++11 -g   -o CMakeFiles/PA9.dir/src/window.cpp.o -c /home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/src/window.cpp",
+  "file": "/home/enzoarata/Desktop/Repository/Copy/cs480Mcilwain/PA9/src/window.cpp"
+}
+]
