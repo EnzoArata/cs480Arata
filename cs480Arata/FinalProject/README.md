@@ -4,7 +4,7 @@
 ### Evan Brown
 ### Zach Mcilwain
 ```
-This is the repository to be graded.
+The repository to be graded is Zachary Mcilwains
 This project was ran and tested on the Debian Stretch partition in ECC.
 ```
 
